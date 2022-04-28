@@ -42,6 +42,6 @@
                 </h3>
                 <h3>Here is an image:</h3>
                 <img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80" alt="computer">
-            <div>This is an animated element!</div>
+                    <div>This is an animated element!</div>
     </body>
 </html>
