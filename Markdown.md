@@ -1,15 +1,6 @@
 <html>
     <head>
-        <style>
-            div {
-                width: 100px;
-                height: 100px;
-                position: relative;
-                background-color: red;
-                animation-name: example;
-                animation-duration: 4s;
-            }
-        </style>
+        <link rel="stylesheet" href="animation.css">
     </head>
     <body>
         <h1>Markdown exercice:</h1>
