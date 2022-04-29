@@ -1,7 +1,7 @@
 <h1 style="color:#00cc99">Ichrak AISSIA</h1>
 <h2 style="color:purple"><b>Becode webdeveloper trainee</b></h2>
 I have always been interested in coding. After working with WordPress for 2 months, I realised that was very much limited. That's why I decided to start learning more about coding.
-
+<br>
 [![AIchrak's github stats](https://github-readme-stats.vercel.app/api?username=AIchrak&show_icons=true&theme=tokyonight)](https://github.com/AIchrak/)
 <h3 style="color:#6699ff"><b>What I like:</b></h3>
 
@@ -15,17 +15,16 @@ I have always been interested in coding. After working with WordPress for 2 mont
 |----|----|----|
 
 <br>
-
 <h3 style="color:#6699ff"><b>Objectives:<b></h3>
 
 - Working on WordPress and other such tools more easily. 
 - Learning about security.
 - Making apps
 - Make awesome things!
-
+<br>
 
 > I look forward to making my first website!
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIchrak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
