@@ -1,4 +1,4 @@
-# <span style="color:#00cc99">Ichrak AISSIA</span>
+<h1 style="color:#00cc99">Ichrak AISSIA</h1>
 ## <span style="color:purple">***Becode webdeveloper trainee***</span>
 I have always been interested in coding. After working with WordPress for 2 months, I realised that was very much limited. That's why I decided to start learning more about coding.
 
