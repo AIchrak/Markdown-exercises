@@ -7,9 +7,9 @@ I have always been interested in coding. After working with WordPress for 2 mont
 
 ### **What I like:**
 
-- Travelling
-- Learning about humane science
-- Discovering new cultures
+- 🧳Travelling
+- 🧬Learning about humane science
+- 🧑🏻‍🤝‍🧑🏾Discovering new cultures 
 
 <br>
 
