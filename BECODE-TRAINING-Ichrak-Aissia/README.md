@@ -30,8 +30,6 @@ I have always been interested in coding. After working with WordPress for 2 mont
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIchrak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### **Fears:**
-None for now
 <br>
 
-![Animated image](https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=ecf05e47v3hxlxcwcriawbs7m88z5xpe041rvl2dw5udlfe7&rid=giphy.gif&ct=g)
+![Animated image](https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv)

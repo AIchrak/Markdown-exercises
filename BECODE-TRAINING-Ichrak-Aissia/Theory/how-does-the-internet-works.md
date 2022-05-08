@@ -1,6 +1,7 @@
 # How does the Internet works?
 ## What is Internet?
 Misconception: "Internet is a buble cloud" --> Not true, **Internet** is a *wire*.
+
 It is useful because any computer connected on the internet can communicate with other connected computers.
 
 ## What is a server?
